@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.patientinformationsystem.PatientinformationsystemApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.936 s - in com.patientinformationsystem.PatientinformationsystemApplicationTests
